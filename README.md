@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Bashibawa
+- 👀 I’m interested in Data Science and Bioinformatics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 📫 How to reach me through my Linkedin profile https://www.linkedin.com/in/bashidoshi-musa-a166a61a0
+- Or you could Whatsapp me @ +2348157130380 for more Information or Collaborations
